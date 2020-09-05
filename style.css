@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+#colorID{
+    margin-top: 30%;
+    text-align: center;
+    position: relative;  
+}
